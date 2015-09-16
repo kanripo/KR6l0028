@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:06.069818
+#+DATE: 2015-08-30 20:51:12.900609
 #+TITLE: 阿毘達磨俱舍釋論
 #+PROPERTY: CBETA_ID T29n1559
 #+PROPERTY: ID KR6l0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1559
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0028_T_002-0169a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《阿毘達磨俱舍釋論》卷第二¶
+《阿毘達磨俱舍釋論》卷第二¶
 ¶
 婆藪盤豆造¶
 陳天竺三藏真諦譯¶
@@ -388,11 +387,7 @@
 一分。後當說。所餘五界。并法界一分。成立¶
 非根。¶
 
-2分別根品
-:PROPERTIES:
-:head: 俱舍釋論中分別根品第二之一
-:END:
-¶
+俱舍釋論中分別根品第二之一¶
 
 說二十二根已。根義云何。最勝自在為義。於¶
 自事用中。增上自在故。復以光飾為義。於¶

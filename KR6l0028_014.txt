@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:06.469200
+#+DATE: 2015-08-30 20:51:13.262713
 #+TITLE: 阿毘達磨俱舍釋論
 #+PROPERTY: CBETA_ID T29n1559
 #+PROPERTY: ID KR6l0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1559
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0028_T_014-0252c> 
 #+PROPERTY: JUAN 14
 ¶
-
- 《阿毘達磨俱舍釋論》卷第十四¶
+《阿毘達磨俱舍釋論》卷第十四¶
 ¶
 婆藪盤豆造¶
 陳天竺三藏真諦譯¶
 
-5分別惑品
-:PROPERTIES:
-:head: 中分別惑品第五
-:END:
-¶
+中分別惑品第五¶
 
 前已說。世間多種異從業生。諸業由隨屬惑¶
 故。至得生長。若離隨眠惑。於生諸有諸業。無¶
@@ -36,7 +31,7 @@
 說。偈曰。復說彼。六由欲別七。釋曰。於前偈¶
 中所說。六隨眠惑。於中分欲為二。更說彼為¶
 七。謂欲欲隨眠。瞋隨眠。有欲隨眠。憍慢隨¶
-眠。無明隨眠。心見隨眠。疑隨眠。此義云何¶
+眠。無明隨眠。心見隨眠眠。疑隨眠。此義云何¶
 應知。為隨眠即是欲欲。為隨眠異欲欲。譬如¶
 石子體及提婆達多衣。若爾何有。若欲欲¶
 即是隨眠。則違佛經。經云。世間有人。非欲欲¶
