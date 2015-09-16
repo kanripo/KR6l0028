@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:06.371441
+#+DATE: 2015-08-30 20:51:14.235824
 #+TITLE: 阿毘達磨俱舍釋論
 #+PROPERTY: CBETA_ID T29n1559
 #+PROPERTY: ID KR6l0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1559
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0028_T_011-0231b> ¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《阿毘達磨俱舍釋論》卷第十一¶
+《阿毘達磨俱舍釋論》卷第十一¶
 ¶
 婆藪盤豆造¶
 陳天竺三藏真諦譯¶
