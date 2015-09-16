@@ -1,0 +1,3 @@
+030-0159b00	TKD 27-0214a	buddhist/K-koreana/27-tif/0200-0299/27_0214_A.TIF
+000-0161a22	TKD 27-0214b	buddhist/K-koreana/27-tif/0200-0299/27_0214_B.TIF
+000-0161b13	TKD 27-0214c	buddhist/K-koreana/27-tif/0200-0299/27_0214_C.TIF
