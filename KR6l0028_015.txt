@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:06.505388
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨俱舍釋論
 #+PROPERTY: CBETA_ID T29n1559
 #+PROPERTY: ID KR6l0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1559
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0028_T_015-0259c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《阿毘達磨俱舍釋論》卷第十五¶
+《阿毘達磨俱舍釋論》卷第十五¶
 ¶
 婆藪盤豆造¶
 陳天竺三藏真諦譯¶
@@ -68,9 +67,9 @@
 　五八及十識
 　十識所緣境¶
 　見滅道所滅
-　一切自長境
+　一切自長境」
 #+END_VERSE
-」¶
+¶
 
 已解安立如此十六心。於十六境隨眠正事。¶
 於中云何思量。我等為安立此義故顯唯方。¶
@@ -240,9 +239,9 @@
 
 #+BEGIN_VERSE
 「　無貴重乏財
-　非自親所敬
+　非自親所敬」
 #+END_VERSE
-」¶
+¶
 
 由憂喜相起故。能顯示諸惑相。由嫉姤能損¶
 他部。由慳悋能損自部。他得利益事不能忍。¶
@@ -329,9 +328,9 @@
 
 #+BEGIN_VERSE
 「　何法名邪曲
-　謂邪見等見
+　謂邪見等見」
 #+END_VERSE
-」¶
+¶
 
 是故諂曲是諸見等流垢。於中何惑何道所¶
 滅。前所說十倒起惑。偈曰。此中無差慚。疲¶

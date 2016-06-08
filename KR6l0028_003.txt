@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:06.103722
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨俱舍釋論
 #+PROPERTY: CBETA_ID T29n1559
 #+PROPERTY: ID KR6l0028
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1559
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0028_T_003-0177c> ¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《阿毘達磨俱舍釋論》卷第三¶
+《阿毘達磨俱舍釋論》卷第三¶
 ¶
 婆藪盤豆造¶
 陳天竺三藏真諦譯¶
