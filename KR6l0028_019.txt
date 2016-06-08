@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:06.636498
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨俱舍釋論
 #+PROPERTY: CBETA_ID T29n1559
 #+PROPERTY: ID KR6l0028
@@ -17,7 +17,8 @@
 婆藪盤豆造¶
 陳天竺三藏真諦譯¶
 
-7分別慧品
+* 7分別慧品
+** 1
 :PROPERTIES:
 :head: 分別慧品第七之一
 :END:

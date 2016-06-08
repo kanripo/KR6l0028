@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:06.689445
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨俱舍釋論
 #+PROPERTY: CBETA_ID T29n1559
 #+PROPERTY: ID KR6l0028
@@ -16,7 +16,7 @@
 婆藪盤豆造¶
 陳天竺三藏真諦譯¶
 
-8分別三摩跋提品
+* 8分別三摩跋提品
 :PROPERTIES:
 :head: 分別三摩跋提品第八
 :END:
